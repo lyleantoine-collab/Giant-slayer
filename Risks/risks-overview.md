@@ -18,6 +18,29 @@ No silver bullet, but we've mapped the pitfalls and how to sidestep 'em. This bi
   - **Mitigation**: Cold-chain via Canada Post (viable 7 days); GMOB pre-approves plot. Buffer 2 weeks in timeline.
   - **Likelihood**: Low (Edmonton hub cuts transit to 2 days).
 
+## Financial Risks
+- **Budget Overrun**: Unexpected scaling or testing spikes costs beyond pilot.
+  - **Mitigation**: Fixed-price rentals at Edmonton Research Park; cap testing at 3 samples. Scale only after Phase 1 data.
+  - **Likelihood**: Low (all inputs off-the-shelf; no R&D).
+- **ROI Uncertainty**: If reduction <70%, perceived as "failure" delaying funding.
+  - **Mitigation**: Conservative projections (50% floor in models); hybrid contingency with freeze ops. Taxpayer savings: $100M+/year post-pilot.
+  - **Likelihood**: Medium (weather variables), but data-driven.
+
+### Detailed Pilot Cost Breakdown (CAD)
+Keeping it simple—all figures in Canadian dollars for easy budgeting.
+
+| Item                          | Quantity                  | Unit Cost    | Total  |
+|-------------------------------|---------------------------|--------------|--------|
+| ATCC Strains (KT2440 & glutamicum) | 2 vials                   | $310 each    | $620   |
+| Nutrient Media (for 1,000 L tote) | 50 kg                     | $10/kg       | $500   |
+| Pelletizing & Drying          | 30 kg batch               | $12/kg       | $360   |
+| Lab Testing (3 samples @ 90-day intervals) | 3 sets                    | $1,000/set   | $3,000 |
+| Application & Site Access     | 100 m² plot               | $600         | $600   |
+
+**Total Pilot Cost:** $5,080
+
+**Contingency Buffer:** +20% ($1,016) for overruns = Max $6,096. **Time:** 1 week brewing + 6 months field testing = Hard data in under half a year.
+
 ## Regulatory & Health Risks
 - **Permit Hurdles**: ECCC or NWT approval slow.
   - **Mitigation**: Pre-pitch to GMOB for fast-track; cite GRAS status and existing pilots. 3-month buffer.
